@@ -1,6 +1,6 @@
 # Predição de AVC sob desbalanceamento extremo de classes (PNS 2019)
 
-Código do Trabalho de Conclusão de Curso **"Estudo comparativo de técnicas de aprendizagem de máquina para predição de AVC: uma análise sob desbalanceamento extremo de classes com microdados da PNS 2019"**, apresentado ao curso de Bacharelado em Sistemas de Informação do Instituto Federal Catarinense, Câmpus Araquari.
+Código do Trabalho de Conclusão de Curso **"Estudo comparativo de técnicas de aprendizagem de máquina para predição de AVC: uma análise sob desbalanceamento extremo de classes com microdados da PNS 2019"**, desenvolvido para o curso de Bacharelado em Sistemas de Informação do Instituto Federal Catarinense, Câmpus Araquari.
 
 - **Autor:** Leonardo Macedo
 - **Orientador:** Prof. Marcio Marcelo Piffer, Me.
